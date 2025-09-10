@@ -1,0 +1,9 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/SettingsPage",
+    "components/UserProfileList",
+    "components/MyButton",
+    "components/MyInfo"
+  ]
+}
