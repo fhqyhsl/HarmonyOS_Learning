@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "新闻资讯"
+    },
+    {
+      "name": "Title_area",
+      "value": "内容标题占位"
+    },
+    {
+      "name": "AnoTitle_area",
+      "value": "内容描述占位文本..."
+    }
+  ]
+}
